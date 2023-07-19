@@ -3,6 +3,7 @@
 
 import machine
 import time
+import ugit
 
 print('hello ugit users!')
 
